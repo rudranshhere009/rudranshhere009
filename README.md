@@ -179,10 +179,10 @@ PostgreSQL • MongoDB • Secure Database Configuration • Query Optimization 
 
 ---
 
-## 🚀 Contribution Activity (3D View)
+## 📈 Development Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudranshhere009&theme=github_dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudranshhere009&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
