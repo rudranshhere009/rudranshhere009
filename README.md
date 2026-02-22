@@ -11,11 +11,6 @@
 </p>
 
 <br>
-
-<!-- Sleek Minimal Header -->
-
-<h1 align="left">Rudransh Shukla</h1>
-
 Backend Engineer specializing in secure authentication systems, hardened API architectures, and Linux-driven backend infrastructure.
 
 Building systems where security is the Base not just an add on >
