@@ -1,7 +1,7 @@
 <!-- ================= BLACK + RED HEADER ================= -->
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=1500&pause=500&color=FFFFFF&vCenter=true&width=750&lines=Rudransh+Shukla;Backend+%7C+Security+%7C+Linux" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=48&duration=2500&pause=1000&color=FFFFFF&vCenter=true&width=800&lines=Rudransh+Shukla" />
 </p>
 
 <p align="left">
