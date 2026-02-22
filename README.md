@@ -48,7 +48,7 @@ My engineering philosophy:
 
 A production-style authentication infrastructure engineered with security-first design principles.
 
-This project represents my core backend & security capability.
+This platform combines hardened credential handling, privilege isolation, token revocation mechanisms, and structured audit logging to ensure resilient and observable authentication workflows.
 
 ### Architecture Highlights
 
