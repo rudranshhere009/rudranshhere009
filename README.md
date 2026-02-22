@@ -167,14 +167,16 @@ PostgreSQL • MongoDB • Secure Database Configuration • Query Optimization 
 
 ---
 
-## 📊 GitHub Metrics
+## 📊 Engineering Activity
 
+### 🗓 Contribution Heatmap
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rudranshhere009&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://ghchart.rshah.org/ffffff/rudranshhere009" />
 </p>
 
+### 🧠 Technology Distribution
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rudranshhere009&theme=dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rudranshhere009&theme=github_dark" />
 </p>
 
 ---
