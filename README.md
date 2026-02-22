@@ -1,3 +1,17 @@
+<!-- ================= BLACK + RED HEADER ================= -->
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=35&width=600&lines=Rudransh+Shukla" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Backend-Engineering-black?style=for-the-badge&logo=python&logoColor=red" />
+  <img src="https://img.shields.io/badge/Security-First-black?style=for-the-badge&logo=shield&logoColor=red" />
+  <img src="https://img.shields.io/badge/Linux-Infrastructure-black?style=for-the-badge&logo=linux&logoColor=red" />
+</p>
+
+<br>
+
 <!-- Sleek Minimal Header -->
 
 <h1 align="left">Rudransh Shukla</h1>
@@ -5,6 +19,8 @@
 Backend Engineer specializing in secure authentication systems, hardened API architectures, and Linux-driven backend infrastructure.
 
 Building systems where security is the Base not just an add on >
+
+<sub>Security-focused backend systems. Controlled boundaries. Observable infrastructure.</sub>
 
 ---
 
@@ -159,8 +175,32 @@ PostgreSQL • MongoDB • Secure Database Configuration • Query Optimization 
 
 ---
 
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rudranshere009&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudranshere009&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rudranshere009/rudranshere009/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=rudranshere009&label=Profile%20Views&color=red&style=flat" />
+
+---
+
 ## 📫 Contact
 
 New Delhi  
 rudranshshukla9069@gmail.com  
-GitHub: https://github.com/rudranshhere009
+GitHub: https://github.com/rudranshere009
