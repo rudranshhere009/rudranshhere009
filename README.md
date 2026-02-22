@@ -10,12 +10,9 @@
   <img src="https://img.shields.io/badge/Linux-Infrastructure-black?style=for-the-badge&logo=linux&logoColor=red" />
 </p>
 
-<br>
 Backend Engineer specializing in secure authentication systems, hardened API architectures, and Linux-driven backend infrastructure.
 
 Building systems where security is the Base not just an add on >
-
-<sub>Security-focused backend systems. Controlled boundaries. Observable infrastructure.</sub>
 
 ---
 
