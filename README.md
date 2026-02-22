@@ -174,7 +174,7 @@ PostgreSQL • MongoDB • Secure Database Configuration • Query Optimization 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudranshhere009&theme=transparent&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=rudranshhere009&theme=dark&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" />
 </p>
 
 ---
