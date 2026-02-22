@@ -38,16 +38,6 @@ TCP/IP • DNS • DHCP • Subnetting
 
 ---
 
-## 🧩 Systems Approach
-
-- Define clear access boundaries
-- Enforce least-privilege authorization
-- Maintain observable session behavior
-- Minimize attack surface exposure
-- Implement controlled failure handling
-
----
-
 # 🔐 Flagship Project
 
 ## Authentication Server (Primary System Architecture)
