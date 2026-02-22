@@ -4,13 +4,13 @@
 
 Backend Engineer specializing in secure authentication systems, hardened API architectures, and Linux-driven backend infrastructure.
 
-Building systems where security is engineered — not added later.
+Building systems where security is the Base not just an add on >
 
 ---
 
 ## 🛡 Engineering Domain
 
-I operate at the intersection of **Backend Development, Security Engineering, and Linux Infrastructure**.
+I operate on **Backend Developments "alongside" Security Engineering, and Linux Infrastructure**.
 
 My work focuses on designing production-style backend systems with security deeply integrated into architecture decisions — not treated as an afterthought.
 
