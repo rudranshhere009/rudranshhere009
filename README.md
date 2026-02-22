@@ -36,9 +36,13 @@ Docker • Git • VirtualBox
 Nmap • Nessus • Hydra • Wireshark  
 TCP/IP • DNS • DHCP • Subnetting  
 
-My engineering philosophy:
+## 🧩 Systems Approach
 
-> Architect securely. Isolate aggressively. Monitor continuously.
+- Define clear access boundaries
+- Enforce least-privilege authorization
+- Maintain observable session behavior
+- Minimize attack surface exposure
+- Implement controlled failure handling
 
 ---
 
