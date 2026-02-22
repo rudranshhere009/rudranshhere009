@@ -167,20 +167,6 @@ PostgreSQL • MongoDB • Secure Database Configuration • Query Optimization 
 
 ---
 
-## 📊 Engineering Activity
-
-### 🗓 Contribution Heatmap
-<p align="center">
-  <img src="https://ghchart.rshah.org/ffffff/rudranshhere009" />
-</p>
-
-### 🧠 Technology Distribution
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rudranshhere009&theme=github_dark" />
-</p>
-
----
-
 ## 📊 Engineering Analytics
 
 <p align="center">
