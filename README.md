@@ -170,18 +170,20 @@ PostgreSQL • MongoDB • Secure Database Configuration • Query Optimization 
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudranshhere009&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rudranshhere009&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudranshhere009&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudranshhere009&theme=transparent&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&hide_border=true" />
 </p>
 
 ---
 
 ## 🐍 Contribution Graph
 
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudranshhere009&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" />
+</p>
 
 ---
 
