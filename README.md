@@ -10,7 +10,7 @@ Building systems where security is the Base not just an add on >
 
 ## 🛡 Engineering Domain
 
-I operate on **Backend Developments "alongside" Security Engineering, and Linux Infrastructure**.
+I operate across **Backend Developments, Security Engineering and Linux Infrastructure**.
 
 My work focuses on designing production-style backend systems with security deeply integrated into architecture decisions — not treated as an afterthought.
 
