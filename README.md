@@ -1,7 +1,7 @@
 <!-- ================= BLACK + RED HEADER ================= -->
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=35&width=600&lines=Rudransh+Shukla" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=1&pause=100000&color=FFFFFF&vCenter=true&width=600&lines=Rudransh+Shukla" />
 </p>
 
 <p align="left">
