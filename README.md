@@ -1,3 +1,9 @@
+<!-- ===================== BANNER ===================== -->
+
+<p align="center">
+  <img src="YOUR_BLACK_RED_BANNER_LINK_HERE" />
+</p>
+
 <!-- Sleek Minimal Header -->
 
 <h1 align="left">Rudransh Shukla</h1>
@@ -5,6 +11,10 @@
 Backend Engineer specializing in secure authentication systems, hardened API architectures, and Linux-driven backend infrastructure.
 
 Building systems where security is the Base not just an add on >
+
+<sub>Security-focused backend systems. Controlled boundaries. Observable infrastructure.</sub>
+
+<br>
 
 ---
 
@@ -35,6 +45,8 @@ Bash & Shell scripting
 Docker • Git • VirtualBox  
 Nmap • Nessus • Hydra • Wireshark  
 TCP/IP • DNS • DHCP • Subnetting  
+
+<br>
 
 ---
 
@@ -67,95 +79,67 @@ This platform combines hardened credential handling, privilege isolation, token 
 Live: Soon 😉  
 Repository: https://github.com/rudranshhere009/Authentication-Server
 
+<br>
+
 ---
 
 # 🔥 Core Systems & Platforms
 
 ## 🔐 Cyber-Vault
-
-A secure digital vault platform built around encryption-first architecture and zero-trust enforcement.
-
-Key Capabilities:
-- Blockchain hash validation for credential integrity
-- Simulated biometric authentication logic (Iris / Fingerprint layers)
-- OCR-based intelligent document indexing chatbot
-- Real-time threat monitoring dashboard
-- Device isolation principles & strict access enforcement
-- Structured backend API boundary protection
-
-Live: https://cyber-vault.vercel.app/  
-Repository: https://github.com/rudranshhere009/Cyber-Vault  
-
----
+...
+(keep everything exactly same here — no changes)
 
 ## 🛡 Trust-Lens
-
-A scalable intelligence & forensic workflow platform built using API-driven architecture.
-
-Key Capabilities:
-- Automated scraping & crawling (BeautifulSoup, Scrapy)
-- Metadata extraction & structured indexing
-- Behavioral anomaly detection
-- Search history logging with integrity validation
-- Secure data exposure controls for investigation workflows
-
-Live: https://trust-lens-one.vercel.app/  
-Repository: https://github.com/rudranshhere009/Trust-Lens  
-
----
+...
+(keep same)
 
 ## 📊 Data Suite
+...
+(keep same)
 
-End-to-end analytical pipeline system for structured dataset processing & anomaly insights.
-
-Key Capabilities:
-- Data cleaning & transformation workflows
-- Statistical trend detection & anomaly modeling
-- Automated reporting modules
-- Modular backend data processing architecture
-
-Live: https://data-suite-seven.vercel.app/  
-Repository: https://github.com/rudranshhere009/Data-Suite  
+<br>
 
 ---
 
 ## ⚙ Technical Stack
+(keep everything same)
 
-### Backend Architecture
-Flask • REST API Design • Secure API Structuring • JWT Systems • RBAC • Session Management • Token Revocation • Rate Limiting
-
-### Security Engineering
-Authentication Systems • MFA • Zero Trust Models • Cryptographic Hashing • Log Forensics • Access Control Models • Vulnerability Assessment • OSINT
-
-### Linux & Networking
-Linux Administration • SSH Hardening • Firewall Configuration (iptables / UFW) • SELinux • systemctl • Cron Jobs • TCP/IP • DNS • DHCP • Network Monitoring
-
-### Data & Infrastructure
-PostgreSQL • MongoDB • Secure Database Configuration • Query Optimization • Docker • Git • GitHub
+<br>
 
 ---
 
 ## 🧠 Professional Experience
+(keep everything same)
 
-### Cyber Security Intern — WESEE (Indian Navy) | Jul 2025
-
-- Designed and strengthened backend authentication & authorization systems
-- Implemented JWT access/refresh architecture with RBAC enforcement
-- Built secure REST APIs with strict validation and rate control
-- Developed real-time session monitoring for anomalous behavior detection
-- Performed Linux log forensics & authentication event correlation
-- Assisted in vulnerability analysis & configuration validation
-- Strengthened API exposure boundaries through privilege isolation strategies
-- Contributed to secure operational data handling & analytics workflows
+<br>
 
 ---
 
-### IT Intern — SSPL, DRDO | Jun 2022
+## 📊 GitHub Metrics
 
-- Supported system-level testing & circuit simulation workflows
-- Assisted in amplifier design evaluation & signal flow analysis
-- Participated in optical / laser-based communication experiments
-- Followed structured documentation & technical validation standards
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rudranshere009&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudranshere009&theme=tokyonight&hide_border=true" />
+</p>
+
+<br>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rudranshere009/rudranshere009/output/github-contribution-grid-snake.svg" />
+</p>
+
+<br>
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=rudranshere009&label=Profile%20Views&color=red&style=flat" />
 
 ---
 
@@ -163,4 +147,4 @@ PostgreSQL • MongoDB • Secure Database Configuration • Query Optimization 
 
 New Delhi  
 rudranshshukla9069@gmail.com  
-GitHub: https://github.com/rudranshhere009
+GitHub: https://github.com/rudranshere009
