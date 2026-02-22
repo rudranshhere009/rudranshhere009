@@ -1,130 +1,145 @@
-<h1 align="center">Rudransh Shukla</h1>
-<h3 align="center">Backend Engineer • Security Architect • Linux & Network Systems</h3>
+<!-- Sleek Minimal Header -->
 
-<p align="center">
-Designing secure backend infrastructures, authentication ecosystems, and zero-trust API architectures.
-</p>
+<h1 align="left">Rudransh Shukla</h1>
+
+Backend Engineer specializing in secure authentication systems, hardened API architectures, and Linux-driven backend infrastructure.
+
+Building systems where security is engineered — not added later.
 
 ---
 
-## 🛡 Engineering Focus
+## 🛡 Engineering Domain
 
-I am a backend-focused security engineer with deep interest in authentication systems, secure API design, and Linux-based infrastructure hardening.
+I operate at the intersection of **Backend Development, Security Engineering, and Linux Infrastructure**.
 
-My work revolves around building and securing backend systems end-to-end:
+My work focuses on designing production-style backend systems with security deeply integrated into architecture decisions — not treated as an afterthought.
 
-- Architecting RESTful APIs using Python (Flask) with production-level structure
-- Designing JWT-based access & refresh token architectures
-- Implementing RBAC with granular privilege isolation
-- Secure session lifecycle management (creation, validation, revocation, blacklisting)
-- Multi-Factor Authentication (MFA) & challenge-response mechanisms
-- Password hashing & cryptographic implementations (SHA-256, PBKDF2, salting strategies)
-- API rate limiting, request filtering & brute-force protection
-- Secure database design & query optimization (PostgreSQL, MongoDB)
-- Linux system administration, SSH hardening & firewall configuration
-- Log-based anomaly detection & authentication event correlation
-- Zero Trust principles & attack surface minimization
+### Core Engineering Capabilities
 
-Beyond backend development, I actively work with:
+- Architecting RESTful backends using Python (Flask)
+- Designing JWT-based access & refresh token ecosystems
+- Role-Based Access Control (RBAC) with granular privilege isolation
+- Secure session lifecycle management (issue → validate → revoke → blacklist)
+- Multi-Factor Authentication (MFA) & challenge–response workflows
+- Cryptographic password handling (SHA-256, PBKDF2, salting strategies)
+- Brute-force protection & rate limiting enforcement
+- Secure database configuration & query optimization (PostgreSQL, MongoDB)
+- Linux system hardening (SSH, firewall, SELinux)
+- Authentication log monitoring & anomaly detection
+- Zero-Trust boundary modeling & attack surface minimization
 
-- Python, C, C++, JavaScript, PHP
-- Bash & Shell scripting for automation
+### Systems & Tooling
+
+Python • C • C++ • JavaScript • PHP  
+Bash & Shell scripting  
+Docker • Git • VirtualBox  
+Nmap • Nessus • Hydra • Wireshark  
+TCP/IP • DNS • DHCP • Subnetting  
+
+My engineering philosophy:
+
+> Architect securely. Isolate aggressively. Monitor continuously.
+
+---
+
+# 🔐 Flagship Project
+
+## Authentication Server (Primary System Architecture)
+
+A production-style authentication infrastructure engineered with security-first design principles.
+
+This project represents my core backend & security capability.
+
+### Architecture Highlights
+
+- JWT-based Access & Refresh Token system
+- Structured Role-Based Access Control (RBAC)
+- Secure password hashing & validation pipelines
+- Session lifecycle tracking with token revocation & blacklisting
+- Brute-force protection with adaptive rate limiting
+- Input validation & structured error handling
+- Real-time session monitoring dashboard  
+  (IP tracking, device metadata, active session visualization)
+- Structured audit logging & security event tracing
 - Docker-based containerization
-- Network-level analysis (TCP/IP, DNS, DHCP, Subnetting)
-- Security tooling (Nmap, Nessus, Hydra, Wireshark)
-- Basic penetration testing & vulnerability assessment
 
-My approach:  
-Build → Harden → Monitor → Isolate → Improve.
+### Currently Working On
+- Advanced anomaly detection for session abuse
+- Automated risk scoring for suspicious login patterns
+- Token misuse detection & behavioral flagging
+
+Live: Soon 😉  
+Repository: https://github.com/rudranshhere009/Authentication-Server
 
 ---
 
-## 🔥 Core Projects
+# 🔥 Core Systems & Platforms
 
-### 🔐 Cyber-Vault  
-A secure digital vault platform built around encryption-first architecture and zero-trust principles.
+## 🔐 Cyber-Vault
 
-Key Highlights:
-- Secure credential storage with blockchain hash validation
-- Simulated biometric authentication (Iris / Fingerprint logic layer)
-- OCR-based document indexing chatbot for secure querying
+A secure digital vault platform built around encryption-first architecture and zero-trust enforcement.
+
+Key Capabilities:
+- Blockchain hash validation for credential integrity
+- Simulated biometric authentication logic (Iris / Fingerprint layers)
+- OCR-based intelligent document indexing chatbot
 - Real-time threat monitoring dashboard
-- Device isolation strategies & strict access enforcement
-- Structured backend architecture with secure API boundaries
+- Device isolation principles & strict access enforcement
+- Structured backend API boundary protection
 
 Live: https://cyber-vault.vercel.app/  
-Repo: https://github.com/rudranshhere009/Cyber-Vault  
+Repository: https://github.com/rudranshhere009/Cyber-Vault  
 
 ---
 
-### 🛡 Trust-Lens  
-A scalable intelligence & forensic analysis platform built using API-driven architecture.
+## 🛡 Trust-Lens
 
-Key Highlights:
+A scalable intelligence & forensic workflow platform built using API-driven architecture.
+
+Key Capabilities:
 - Automated scraping & crawling (BeautifulSoup, Scrapy)
-- Image search with metadata extraction & structured indexing
-- Behavioral anomaly detection mechanisms
+- Metadata extraction & structured indexing
+- Behavioral anomaly detection
 - Search history logging with integrity validation
-- Secure data pipelines with controlled exposure layers
-- Designed for investigation-style workflows & digital verification
+- Secure data exposure controls for investigation workflows
 
 Live: https://trust-lens-one.vercel.app/  
-Repo: https://github.com/rudranshhere009/Trust-Lens  
+Repository: https://github.com/rudranshhere009/Trust-Lens  
 
 ---
 
-### 📊 Data Suite  
-End-to-end analytical pipeline system for structured dataset processing.
+## 📊 Data Suite
 
-Key Highlights:
+End-to-end analytical pipeline system for structured dataset processing & anomaly insights.
+
+Key Capabilities:
 - Data cleaning & transformation workflows
-- Statistical trend and anomaly detection
-- Automated report generation
-- Visualization-driven decision insights
-- Modular backend data processing layers
+- Statistical trend detection & anomaly modeling
+- Automated reporting modules
+- Modular backend data processing architecture
 
 Live: https://data-suite-seven.vercel.app/  
-Repo: https://github.com/rudranshhere009/Data-Suite  
+Repository: https://github.com/rudranshhere009/Data-Suite  
 
 ---
 
-### 🔑 Authentication Server  
-A production-style backend authentication system built with security-first design.
+## ⚙ Technical Stack
 
-Key Highlights:
-- JWT-based access & refresh token system
-- Role-Based Access Control (RBAC)
-- Secure password hashing & validation pipelines
-- Brute-force protection & rate limiting
-- Session lifecycle management & token blacklisting
-- Real-time session monitoring dashboard (IP & device tracking)
-- Structured logging & audit trails
-- Docker containerization
-
-Repo: https://github.com/rudranshhere009/Authentication-Server  
-
----
-
-## ⚙ Technical Arsenal
-
-### Backend & Architecture
-Flask • REST API Design • Secure API Architecture • JWT Systems • RBAC • Session Management • Token Revocation • Rate Limiting • Input Validation • Secure Error Handling
+### Backend Architecture
+Flask • REST API Design • Secure API Structuring • JWT Systems • RBAC • Session Management • Token Revocation • Rate Limiting
 
 ### Security Engineering
-Authentication & Authorization • MFA • Challenge-Response Systems • Zero Trust Models • Cryptographic Hashing • Threat Monitoring • Log Forensics • Access Control Models • Vulnerability Assessment • OSINT
+Authentication Systems • MFA • Zero Trust Models • Cryptographic Hashing • Log Forensics • Access Control Models • Vulnerability Assessment • OSINT
 
 ### Linux & Networking
-Linux Administration • SSH Hardening • Firewall Configuration (iptables / UFW) • SELinux • systemctl • Cron Jobs • TCP/IP • DNS • DHCP • Subnetting • Network Monitoring • IDS/IPS Fundamentals
+Linux Administration • SSH Hardening • Firewall Configuration (iptables / UFW) • SELinux • systemctl • Cron Jobs • TCP/IP • DNS • DHCP • Network Monitoring
 
-### Databases & Infrastructure
-PostgreSQL • MongoDB • Secure DB Configuration • Query Optimization • Docker • VirtualBox • Git • GitHub
-
-### Programming
-Python • C • C++ • JavaScript • PHP • Bash • Shell Scripting
+### Data & Infrastructure
+PostgreSQL • MongoDB • Secure Database Configuration • Query Optimization • Docker • Git • GitHub
 
 ---
 
-## 🧠 Internship Experience
+## 🧠 Professional Experience
 
 ### Cyber Security Intern — WESEE (Indian Navy) | Jul 2025
 
@@ -135,7 +150,7 @@ Python • C • C++ • JavaScript • PHP • Bash • Shell Scripting
 - Performed Linux log forensics & authentication event correlation
 - Assisted in vulnerability analysis & configuration validation
 - Strengthened API exposure boundaries through privilege isolation strategies
-- Contributed to secure operational data handling & decision-support visualization systems
+- Contributed to secure operational data handling & analytics workflows
 
 ---
 
@@ -150,21 +165,6 @@ Python • C • C++ • JavaScript • PHP • Bash • Shell Scripting
 
 ## 📫 Contact
 
-📍 New Delhi  
-📧 rudranshshukla9069@gmail.com  
-🔗 GitHub: https://github.com/rudranshhere009
-
-<!--
-**rudranshhere009/rudranshhere009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+New Delhi  
+rudranshshukla9069@gmail.com  
+GitHub: https://github.com/rudranshhere009
