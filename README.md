@@ -36,6 +36,8 @@ Docker • Git • VirtualBox
 Nmap • Nessus • Hydra • Wireshark  
 TCP/IP • DNS • DHCP • Subnetting  
 
+---
+
 ## 🧩 Systems Approach
 
 - Define clear access boundaries
