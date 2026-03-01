@@ -127,23 +127,23 @@ Repository: https://github.com/rudranshhere009/Data-Suite
 
 ---
 
-## 🔐 Conman - The Cross platform Multi Factor Authentication Tool
+## 🔐 Conman - The Cross platform Multi Factor Authentication Tool  
 
 A cross-platform MFA security platform built for Linux and Windows with challenge-based identity verification and policy-driven access control.
 
 Key Capabilities:
 
--Dynamic grid-based MFA challenge (coordinate prompts like A2, B4, C1)
--Rotating challenge logic per login cycle for stronger replay resistance
--Security question fallback flow for controlled recovery access
--Linux tty1 pre-display authentication gate with systemd integration
--Windows logon guard mode with desktop MFA UI + scheduled startup enforcement
--Platform-specific fail actions (service lockdown, lock workstation, logoff)
--Material-style admin control panel for policy management
--PHP status endpoint for operational monitoring and state visibility
--Python-first architecture with modular CLI + web management flows
+- Dynamic grid-based MFA challenge (coordinate prompts like A2, B4, C1)
+- Rotating challenge logic per login cycle for stronger replay resistance
+- Security question fallback flow for controlled recovery access
+- Linux tty1 pre-display authentication gate with systemd integration
+- Windows logon guard mode with desktop MFA UI + scheduled startup enforcement
+- Platform-specific fail actions (service lockdown, lock workstation, logoff)
+- Material-style admin control panel for policy management
+- PHP status endpoint for operational monitoring and state visibility
+- Python-first architecture with modular CLI + web management flows
 
-Live: Self-hosted deployment (local/server run)
+Live: Self-hosted deployment (local/server run)  
 Repository: https://github.com/rudranshhere009/Conman-MFA
 
 ---
