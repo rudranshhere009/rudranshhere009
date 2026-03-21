@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/FullStack-Engineering-black?style=for-the-badge&logo=javascript&logoColor=red" />
+  <img src="https://img.shields.io/badge/Backend-Engineering-black?style=for-the-badge&logo=python&logoColor=red" />
   <img src="https://img.shields.io/badge/Security-First-black?style=for-the-badge&logo=shield&logoColor=red" />
   <img src="https://img.shields.io/badge/Linux-Infrastructure-black?style=for-the-badge&logo=linux&logoColor=red" />
 </p>
