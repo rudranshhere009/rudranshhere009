@@ -5,12 +5,12 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Backend-Engineering-black?style=for-the-badge&logo=python&logoColor=red" />
+  <img src="https://img.shields.io/badge/FullStack-Engineering-black?style=for-the-badge&logo=javascript&logoColor=red" />
   <img src="https://img.shields.io/badge/Security-First-black?style=for-the-badge&logo=shield&logoColor=red" />
   <img src="https://img.shields.io/badge/Linux-Infrastructure-black?style=for-the-badge&logo=linux&logoColor=red" />
 </p>
 
-Backend Engineer specializing in secure authentication systems, hardened API architectures, and Linux-driven backend infrastructure.
+Full Stack Engineer specializing in secure backend systems, scalable APIs, and modern frontend integrations.
 
 Building systems where security is the Base not just an add on >
 
@@ -18,20 +18,22 @@ Building systems where security is the Base not just an add on >
 
 ## 🛡 Engineering Domain
 
-I operate across **Backend Development, Security Engineering and Linux Infrastructure**.
+I operate across **Full Stack Development, Backend Engineering, Security Engineering and Linux Infrastructure**.
 
-My work focuses on designing production-style backend systems with security deeply integrated into architecture decisions — not treated as an afterthought.
+My work focuses on building production-grade applications where **frontend experience and backend security are tightly coupled** — not treated as separate concerns.
 
 ### Core Engineering Capabilities
 
-- Architecting RESTful backends using Python (Flask)
+- Designing and developing full stack applications (Next.js, Node.js, Python, JavaScript, PHP/Laravel)
+- Architecting RESTful backends using Python (Flask), Node.js, and Laravel
 - Designing JWT-based access & refresh token ecosystems
 - Role-Based Access Control (RBAC) with granular privilege isolation
 - Secure session lifecycle management (issue → validate → revoke → blacklist)
 - Multi-Factor Authentication (MFA) & challenge–response workflows
 - Cryptographic password handling (SHA-256, PBKDF2, salting strategies)
 - Brute-force protection & rate limiting enforcement
-- Secure database configuration & query optimization (PostgreSQL, MongoDB)
+- Secure database design, schema structuring & query optimization (PostgreSQL, MongoDB)
+- Building responsive frontend systems with performance-focused UI enhancements
 - Linux system hardening (SSH, firewall, SELinux)
 - Authentication log monitoring & anomaly detection
 - Zero-Trust boundary modeling & attack surface minimization
@@ -39,6 +41,7 @@ My work focuses on designing production-style backend systems with security deep
 ### Systems & Tooling
 
 Python • C • C++ • JavaScript • PHP  
+Next.js • Node.js • Laravel  
 Bash & Shell scripting  
 Docker • Git • VirtualBox  
 Nmap • Nessus • Hydra • Wireshark  
@@ -81,7 +84,7 @@ Repository: https://github.com/rudranshhere009/Authentication-Server
 
 ## 🔐 Cyber-Vault
 
-A secure digital vault platform built around encryption-first architecture and zero-trust enforcement.
+A secure full stack digital vault platform built around encryption-first architecture and zero-trust enforcement.
 
 Key Capabilities:
 - Blockchain hash validation for credential integrity
@@ -90,6 +93,7 @@ Key Capabilities:
 - Real-time threat monitoring dashboard
 - Device isolation principles & strict access enforcement
 - Structured backend API boundary protection
+- Integrated frontend interface for secure user interaction
 
 Live: https://cyber-vault.vercel.app/  
 Repository: https://github.com/rudranshhere009/Cyber-Vault  
@@ -98,7 +102,7 @@ Repository: https://github.com/rudranshhere009/Cyber-Vault
 
 ## 🛡 Trust-Lens
 
-A scalable intelligence & forensic workflow platform built using API-driven architecture.
+A scalable full stack intelligence & forensic workflow platform built using API-driven architecture.
 
 Key Capabilities:
 - Automated scraping & crawling (BeautifulSoup, Scrapy)
@@ -106,6 +110,7 @@ Key Capabilities:
 - Behavioral anomaly detection
 - Search history logging with integrity validation
 - Secure data exposure controls for investigation workflows
+- Frontend dashboards for data visualization & interaction
 
 Live: https://trust-lens-one.vercel.app/  
 Repository: https://github.com/rudranshhere009/Trust-Lens  
@@ -114,13 +119,14 @@ Repository: https://github.com/rudranshhere009/Trust-Lens
 
 ## 📊 Data Suite
 
-End-to-end analytical pipeline system for structured dataset processing & anomaly insights.
+End-to-end full stack analytical pipeline system for structured dataset processing & anomaly insights.
 
 Key Capabilities:
 - Data cleaning & transformation workflows
 - Statistical trend detection & anomaly modeling
 - Automated reporting modules
 - Modular backend data processing architecture
+- Frontend dashboards for analytical insights
 
 Live: https://data-suite-seven.vercel.app/  
 Repository: https://github.com/rudranshhere009/Data-Suite  
@@ -150,8 +156,8 @@ Repository: https://github.com/rudranshhere009/Conman-MFA
 
 ## ⚙ Technical Stack
 
-### Backend Architecture
-Flask • REST API Design • Secure API Structuring • JWT Systems • RBAC • Session Management • Token Revocation • Rate Limiting
+### Full Stack & Backend
+Next.js • Node.js • Laravel • Flask • REST API Design • Secure API Structuring • JWT Systems • RBAC • Session Management • Token Revocation • Rate Limiting
 
 ### Security Engineering
 Authentication Systems • MFA • Zero Trust Models • Cryptographic Hashing • Log Forensics • Access Control Models • Vulnerability Assessment • OSINT
@@ -165,6 +171,15 @@ PostgreSQL • MongoDB • Secure Database Configuration • Query Optimization 
 ---
 
 ## 🧠 Professional Experience
+
+### Full Stack Developer — EVTL India | Mar 2026 – Present
+
+- Developing and optimizing frontend interfaces using Next.js with focus on performance and usability  
+- Implementing UI enhancements, feature updates, and content integrations across production applications  
+- Building and integrating backend services using Node.js and Laravel (PHP)  
+- Designing RESTful APIs, data flows, and backend modules to support application features  
+- Structuring database schemas and optimizing queries for performance and scalability  
+- Collaborating across frontend and backend to ensure seamless system integration  
 
 ### Cyber Security Intern — WESEE (Indian Navy) | Jul 2025
 
