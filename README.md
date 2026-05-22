@@ -181,7 +181,7 @@ PostgreSQL • MongoDB • Secure Database Configuration • Query Optimization 
 - Structuring database schemas and optimizing queries for performance and scalability  
 - Collaborating across frontend and backend to ensure seamless system integration  
 
-### Cyber Security Intern — WESEE (Indian Navy) | Jul 2025
+### Cyber Security Analyst — WESEE (Indian Navy) | Jul 2025
 
 - Designed and strengthened backend authentication & authorization systems
 - Implemented JWT access/refresh architecture with RBAC enforcement
@@ -192,7 +192,7 @@ PostgreSQL • MongoDB • Secure Database Configuration • Query Optimization 
 - Strengthened API exposure boundaries through privilege isolation strategies
 - Contributed to secure operational data handling & analytics workflows
 
-### IT Intern — SSPL, DRDO | Jun 2022
+### IT Trainee — SSPL, DRDO | Jun 2022
 
 - Supported system-level testing & circuit simulation workflows
 - Assisted in amplifier design evaluation & signal flow analysis
